@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Elkasaby-Services/static/css/main.06d05bd1.css",
-    "main.js": "/Elkasaby-Services/static/js/main.f1ae9876.js",
+    "main.js": "/Elkasaby-Services/static/js/main.f471edda.js",
     "static/media/dubai.webp": "/Elkasaby-Services/static/media/dubai.a0a58569c66e9816b77d.webp",
     "static/media/fa-solid-900.ttf": "/Elkasaby-Services/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/bannerUAE.webp": "/Elkasaby-Services/static/media/bannerUAE.bd54697fda867138b196.webp",
@@ -23,10 +23,10 @@
     "static/media/fa-v4compatibility.woff2": "/Elkasaby-Services/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/Elkasaby-Services/index.html",
     "main.06d05bd1.css.map": "/Elkasaby-Services/static/css/main.06d05bd1.css.map",
-    "main.f1ae9876.js.map": "/Elkasaby-Services/static/js/main.f1ae9876.js.map"
+    "main.f471edda.js.map": "/Elkasaby-Services/static/js/main.f471edda.js.map"
   },
   "entrypoints": [
     "static/css/main.06d05bd1.css",
-    "static/js/main.f1ae9876.js"
+    "static/js/main.f471edda.js"
   ]
 }
